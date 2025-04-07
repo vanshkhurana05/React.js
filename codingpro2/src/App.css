@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+.navigation-bar{
+  display: flex;
+  width: 1440px;
+  height: 72px;
+  justify-content: space-between;
+  padding-left: 30px;
+}
+div ul{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  font-weight: 500;
+}
